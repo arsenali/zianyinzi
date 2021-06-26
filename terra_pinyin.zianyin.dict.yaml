@@ -2,7 +2,7 @@
 # encoding: utf-8
 #
 # 尖音字列表
-# 共621個漢字，算上多音字共686個；114個音節(區分聲調)/38個音節(不分聲調)
+# 共622個漢字，算上多音字共687個；114個音節(區分聲調)/38個音節(不分聲調)
   # 作者：
     # 阿森納裡 <http://www.jianshu.com/u/efb2db775ef9>
   # 資料來源：
@@ -16,7 +16,7 @@
     # 未列出相關詞彙，調用地球拼音詞庫
 ---
 name: terra_pinyin.zianyin
-version: "2021.06.25"
+version: "2021.06.26"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -329,6 +329,7 @@ use_preset_vocabulary: true
 嬙	ciang2
 檣	ciang2
 牆	ciang2
+墻	ciang2
 艢	ciang2
 搶	ciang3
 熗	ciang4
