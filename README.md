@@ -51,3 +51,11 @@ ing|zing|cing|sing
 这一规定的原则是，声母jqx只和ü相拼，不和u相拼，因此方便起见可把jqx+ü写作jqx+u；但声母nl既可和ü也可和u相拼，因此不可把nl+ü简写作nl+u，为统一起见，不会引起混淆的音节nüe、lüe也不可简写作nue、lue。
 
 根据此原则，尖音音节中的ü统一使用原形，不可简写作u。
+
+<br>
+
+### &#8627; Stargazers
+[![Stargazers repo roster for @arsenali/zianyinzi](https://reporoster.com/stars/arsenali/zianyinzi)](https://github.com/arsenali/zianyinzi/stargazers)
+
+### &#8627; Forkers
+[![Forkers repo roster for @arsenali/zianyinzi](https://reporoster.com/forks/arsenali/zianyinzi)](https://github.com/arsenali/zianyinzi/network/members)
